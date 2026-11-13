@@ -6,11 +6,11 @@ Dự án minh họa thuật toán băm MD5 theo RFC 1321. Phần thuật toán �
 
 ```text
 MD5_Project
-├── main.py         :Giao diện dòng lệnh, nhận đầu vào và điều phối chức năng
+├── main.py        :Giao diện dòng lệnh, nhận đầu vào và điều phối chức năng
 ├── md5_core.py    :Hằng số, padding, phép toán 32 bit và lõi MD5
-├── integrity.py    :Đọc tệp, tính MD5 tệp và kiểm tra tính toàn vẹn
+├── integrity.py   :Đọc tệp, tính MD5 tệp và kiểm tra tính toàn vẹn
 ├── self_test.py   :Test vector và các kiểm thử đối chiếu
-└── README.md       :Tài liệu hướng dẫn
+└── README.md      :Tài liệu hướng dẫn
 ```
 
 ## 2\. Yêu cầu
